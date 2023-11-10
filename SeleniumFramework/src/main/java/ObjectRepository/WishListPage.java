@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+
 import genericUtilities.BaseClass;
 
 public class WishListPage extends BaseClass{
@@ -14,7 +15,7 @@ public class WishListPage extends BaseClass{
 	}
 	@FindBy(xpath = "//input[@value='Add to wishlist']")
 	private WebElement wishlistbutton;
-
+	
 	@FindBy(xpath = "//input[@class='textbox']")
 	private WebElement lengthTF ;
 
