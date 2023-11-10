@@ -12,6 +12,7 @@ public class DemoPractice_Test extends BaseClass{
 	public void demoMethod()
 	{
 		System.out.println("done");
+		System.out.println("done2");
 	}
 
 }
