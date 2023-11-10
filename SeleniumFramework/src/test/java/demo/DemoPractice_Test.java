@@ -13,6 +13,7 @@ public class DemoPractice_Test extends BaseClass{
 	{
 		System.out.println("done");
 		System.out.println("done2");
+		System.out.println("done3");
 	}
 
 }
